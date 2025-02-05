@@ -1,2 +1,2 @@
-# legend_py
-The game "Legend" developed with pygame
+# 三国志英杰传复刻版
+这是龙吟使用PYGAME开发的《三国志英杰传复刻版》。
