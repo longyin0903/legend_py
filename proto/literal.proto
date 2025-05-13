@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message LiteralMap {
+  map<string, string> literal = 1;
+}
